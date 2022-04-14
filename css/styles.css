@@ -10,6 +10,9 @@ body {
   list-style: none;
 }
 .header-link {
+  display: block;
+  padding-top: 32px;
+  padding-bottom: 32px;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -17,6 +20,9 @@ body {
   color: #212121;
 }
 .header-logo {
+  display: block;
+  padding-top: 24px;
+  padding-bottom: 25px;
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
@@ -39,6 +45,9 @@ body {
   color: #2196f3;
 }
 .mail-link {
+  display: block;
+  padding-top: 32px;
+  padding-bottom: 32px;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -50,6 +59,9 @@ body {
   color: #2196f3;
 }
 .tel-link {
+  display: block;
+  padding-top: 32px;
+  padding-bottom: 32px;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
